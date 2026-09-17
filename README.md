@@ -13,8 +13,8 @@ A machine learning project for classifying brain MRI images into four categories
 - [x] Image preprocessing
 - [x] Training/validation/test split
 - [x] CNN architecture
-- [ ] Model training
-- [ ] Model evaluation
+- [x] Model training
+- [x] Model evaluation
 - [ ] Data augmentation
 - [ ] Transfer learning
 - [ ] Grad-CAM visualization
